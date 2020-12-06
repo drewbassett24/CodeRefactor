@@ -16,6 +16,8 @@ It took me longer to realise there was a **broken link** present in the HTML cod
 I also tried to replace elements in the CSS and in the HTML, as the **.benefit-lead, .benefit-brand and .benefit-cost classes** all seemed to do the same thing, but when I tried to do this, the side-bar lost its formatting and the icons grew huge, so I abandoned that and settled for consolidating into lists.
 ## Conclusions
 I feel I made *huge* progress on this project and learned a huge amount. Some of the classmates were incredibly helpful, especially Dave. It was also useful having a **Tutorial** before I even started.
+## Screenshot
+![Screenshot-of-website](https://drewbassett24.github.io/hmk2CodeRefactor/)
 ## Credits
 Olivia Owen:  https://github.com/oliviaowen1/oliviaowen1.github.io
 
